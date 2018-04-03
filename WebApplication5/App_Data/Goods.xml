@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+	<goods>
+		<name>宣纸</name>
+		<isbn>0000001</isbn>
+		<type>纸张</type>
+		<specifications>4785</specifications>
+		<model>大</model>
+		<picture>localhost:</picture>
+	</goods>
+	<goods>
+		<name>白纸</name>
+		<isbn>0000002</isbn>
+		<type>纸张</type>
+		<specifications>4785</specifications>
+		<model>大</model>
+		<picture>localhost:</picture>
+	</goods>
+	<goods>
+		<name>红纸</name>
+		<isbn>0000003</isbn>
+		<type>纸张</type>
+		<specifications>4785</specifications>
+		<model>大</model>
+		<picture>localhost:</picture>
+	</goods>
+	<goods>
+		<name>笔芯</name>
+		<isbn>0000004</isbn>
+		<type>文具</type>
+		<specifications>4785</specifications>
+		<model>大</model>
+		<picture>localhost:</picture>
+	</goods>
+	<goods>
+		<name>飞机</name>
+		<isbn>0000005</isbn>
+		<type>礼品</type>
+		<specifications>4785</specifications>
+		<model>大</model>
+		<picture>localhost:</picture>
+	</goods>
+</root>
